@@ -12,7 +12,7 @@ export const Header = () => {
     >
       <Toolbar>
         <Typography variant="h6" noWrap component="div">
-          Aluguel de Filmes
+          Locação de Filmes
         </Typography>
       </Toolbar>
     </AppBar>

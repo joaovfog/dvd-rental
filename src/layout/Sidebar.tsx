@@ -23,7 +23,7 @@ export const Sidebar = () => {
       >
         <Toolbar />
         <Divider />
-        <MenuItem icon={<LocalMovies />} name="Alugueis" to="/movies" />
+        <MenuItem icon={<LocalMovies />} name="Locações" to="/rents" />
         <MenuItem icon={<AccountCircle />} name="Clientes" to="/customers" />
       </Drawer>
     </>
